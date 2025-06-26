@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Rushikesh-Gude/Nurturing-Agriculture-AI)
+![GitHub last commit](https://img.shields.io/github/last-commit/Rushikesh-Gude/Nurturing-Agriculture-AI)
+![GitHub issues](https://img.shields.io/github/issues/Rushikesh-Gude/Nurturing-Agriculture-AI)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Rushikesh-Gude/Nurturing-Agriculture-AI)
+![GitHub license](https://img.shields.io/github/license/Rushikesh-Gude/Nurturing-Agriculture-AI)
 # 🌱 Nurturing Agriculture: Generative AI as a Farmer’s New Tool 🤖🚜
 This project leverages advanced AI modules for 🌿 plant disease detection, 🤝 smart farming chatbots, and 🏛️ government scheme recommendations—benefiting over **140 million** Indian farmers with access to **30+ schemes** totaling over **INR 5 lakh crores**—along with a 📢 real-time agriculture news feed to revolutionize rural agricultural practices.
 ## 1️⃣ Overview  
