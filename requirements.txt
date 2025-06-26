@@ -1,0 +1,15 @@
+streamlit
+tensorflow==2.16.1
+pillow
+numpy
+pandas
+requests
+faiss-cpu
+langchain
+python-dotenv
+langchain_google_genai
+langchain_groq
+langchain-community
+PyPDF2
+protobuf==3.19.5
+beautifulsoup4 

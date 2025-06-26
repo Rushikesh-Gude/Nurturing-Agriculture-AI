@@ -1,0 +1,7 @@
+Apple Healthy Leaf  
+Apple Rust Leaf  
+Potato Healthy Leaf  
+Potato Late Blight Leaf  
+Tomato Healthy Leaf  
+Tomato Late Blight Leaf  
+

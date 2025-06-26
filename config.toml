@@ -1,0 +1,18 @@
+[theme]
+primaryColor = "#4CAF50"  # Green color for agriculture theme
+backgroundColor = "#F1F8E9"  # Light green for a fresh feel
+secondaryBackgroundColor = "#FFFFFF"  # White for contrast
+textColor = "#2E7D32"  # Dark green for readability
+font = "sans serif"
+
+[server]
+enableCORS = false
+enableXsrfProtection = false
+headless = true
+port = 8501
+
+[client]
+toolbarMode = "minimal"  # Removes Streamlit branding for a clean UI
+
+[logger]
+level = "info"

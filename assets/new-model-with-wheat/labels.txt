@@ -1,0 +1,8 @@
+0 Apple Cedar Rust Leaf
+1 Apple healthy Leaf
+2 Potato healthy Leaf
+3 Potato Late Leaf
+4 Tomato healthy Leaf
+5 Tomato Late Leaf
+6 Wheat Black Leaf
+7 Wheat Healthy Leaf
