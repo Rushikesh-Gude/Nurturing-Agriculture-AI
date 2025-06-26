@@ -54,3 +54,10 @@ streamlit run application.py
 --- 
 ## 5️⃣ License 📜
 📄 Distributed under the MIT License
+## 📸 Screenshots
+
+### 🤖 AI Chatbot Home Screen
+<img src="assets/screenshots/chatbot-home.png" width="600"/>
+
+### 🌿 Disease Detection Result
+<img src="assets/screenshots/disease-detection.png" width="600"/>
